@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 
 
 /* xuanwei */
-#xunwei{padding:0;background:url(../images/xunweibg.jpg) no-repeat;background-size:100%;min-height:3700px;}
+#xunwei{padding:0;background:url(../images/xunweibg.jpg) no-repeat;background-size:100%;min-height:4000px;}
 #xunwei header{width:100%;}
 #xunwei .title{position:absolute;font-size:20px;color:#1b6e69;font-family:fangzhen;}
 #xunwei .title1{left:20%;top:370px;}
