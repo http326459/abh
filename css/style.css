@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 
 
 /* xuanwei */
-#xunwei{padding:0;background:#fff;background-size:100%;min-height:3700px;}
+#xunwei{padding:0;background:#fff;background-size:100%;}
 #xunwei header{width:100%;margin-left:0px;}
 #xunwei .title{position:absolute;font-size:20px;color:#1b6e69;font-family:fangzhen;}
 #xunwei .title1{left:20%;top:7%;}
@@ -97,21 +97,21 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 #xunwei .disanzhan{position:relative;min-height:600px;}
 #xunwei .injiangbf{position: absolute;left:0px;top:5%;width:100%;}
 #xunwei .injiangbf li{float:left;}
-#xunwei .injiangbf li:nth-child(1){background:url(../images/bg3.png) no-repeat;background-size:100%;width:40%;margin-left:15px;padding-bottom:20px;}
+#xunwei .injiangbf li:nth-child(1){background:url(../images/bg3.png) no-repeat;background-size:100%;width:38%;margin-left:15px;padding-bottom:20px;}
 #xunwei .injiangbf li:nth-child(1) .injiangbfpic{width:80%;margin-left:11px;display:block;margin-top:7px;}
-#xunwei .injiangbf li:nth-child(1) h3{height:30px;line-height:30px;text-align:center;font-size:16px;color:#2aa898;font-family:fangzhen;}
-#xunwei .injiangbf li:nth-child(2){width:51%;padding-top:30px;}
+#xunwei .injiangbf li:nth-child(1) h3{height:30px;line-height:40px;text-align:center;font-size:16px;color:#2aa898;font-family:fangzhen;}
+#xunwei .injiangbf li:nth-child(2){width:52%;padding-top:22px;}
 #xunwei .injiangbf li:nth-child(2) .ppy{font-size:10px;color:#6e2f1b;}
 #xunwei .injiangbf li:nth-child(2) .ppy a{color:#fa6e0a;white-space: pre;}
 #xunwei .injiangbf li .injiangbftxt{text-align:center;font-size:10px;}
 #xunwei .injiangbf li .injiangbftxt p{color:#2aa898;}
 
-#xunwei .injiangbg{position: absolute;left:0px;top:33%;width:100%;}
+#xunwei .injiangbg{position: absolute;left:0px;top:34%;width:100%;}
 #xunwei .injiangbg li{float:left;}
-#xunwei .injiangbg li:nth-child(2){background:url(../images/bg3.png) no-repeat;background-size:100%;width:40%;padding-bottom:20px;}
+#xunwei .injiangbg li:nth-child(2){background:url(../images/bg3.png) no-repeat;background-size:100%;width:38%;padding-bottom:20px;}
 #xunwei .injiangbg li:nth-child(2) .injiangbgpic{width:80%;margin-left:11px;margin-top:7px;display:block;}
 #xunwei .injiangbg li:nth-child(2) h3{height:30px;line-height:40px;text-align:center;font-size:14px;color:#2aa898;font-family:fangzhen;}
-#xunwei .injiangbg li:nth-child(1){width:53%;margin-left:15px;padding-top:20px;}
+#xunwei .injiangbg li:nth-child(1){width:55%;margin-left:15px;padding-top:20px;}
 #xunwei .injiangbg li:nth-child(1) .ppy{font-size:10px;color:#6e2f1b;}
 #xunwei .injiangbg li:nth-child(1) .ppy a{color:#fa6e0a;white-space:pre;}
 #xunwei .injiangbg li .injiangbgtxt{text-align:center;padding-top:5px;font-size:10px;}
@@ -183,10 +183,10 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 
 #xunwei .injiangbm{position: absolute;left:0px;top:26.5%;width:100%;}
 #xunwei .injiangbm li{margin:0 auto;}
-#xunwei .injiangbm li:nth-child(1){background:url(../images/shaapingb.png) no-repeat;background-size:100%;width:38%;padding-bottom:30px;}
+#xunwei .injiangbm li:nth-child(1){background:url(../images/shaapingb.png) no-repeat;background-size:100%;width:38%;padding-bottom:22px;}
 #xunwei .injiangbm li:nth-child(1) .injiangbmpic{width:85%;margin:0 auto;position:relative;top:10px;display:block;}
 #xunwei .injiangbm li:nth-child(2) h3{height:30px;line-height:30px;text-align:center;font-size:16px;color:#2aa898;font-family:fangzhen;width:100%;}
-#xunwei .injiangbm li:nth-child(2){width:80%;}
+#xunwei .injiangbm li:nth-child(2){width:90%;}
 #xunwei .injiangbm li:nth-child(2) .ppy{font-size:10px;color:#6e2f1b;}
 #xunwei .injiangbm li:nth-child(2) .ppy a{color:#fa6e0a;white-space: pre;}
 #xunwei .injiangbm li .injiangbmtxt{text-align:center;font-size:10px;}
@@ -198,13 +198,13 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 #xunwei .injiangbn li:nth-child(2) .injiangbnpic{width:85%;margin:0 auto;display:block;position:relative;top:10px;}
 #xunwei .injiangbn li:nth-child(2) .injiangbnpic img{border-radius:6px;}
 #xunwei .injiangbn li:nth-child(1) h3{height:30px;line-height:30px;text-align:center;font-size:16px;color:#2aa898;font-family:fangzhen;position:absolute;left:0;top:-30px;width:100%;}
-#xunwei .injiangbn li:nth-child(1){width:48%;margin-left:5%;position:relative;}
+#xunwei .injiangbn li:nth-child(1){width:54%;margin-left:4%;position:relative;}
 #xunwei .injiangbn li:nth-child(1) .ppy{font-size:10px;color:#6e2f1b;}
 #xunwei .injiangbn li:nth-child(1) .ppy a{color:#fa6e0a;white-space: pre;}
 #xunwei .injiangbn li .injiangbntxt{text-align:center;font-size:10px;}
 #xunwei .injiangbn li .injiangbntxt p{color:#2aa898;}
 #xunwei .xiangshang{position:absolute;left:50%;transform:translateX(-50%);top:85%;display:block;width:20px;}
-#xunwei .tuijian{position:absolute;left:50%;margin-left:-30%;top:92%;width:65%;color:#fff;font-size:12px;height:40px;line-height:40px;text-align:center;display:block;background:#f16922;}
+#xunwei .tuijian{position:absolute;left:50%;transform:translateX(-50%);top:92%;width:65%;color:#fff;font-size:12px;height:40px;line-height:40px;text-align:center;display:block;background:#f16922;}
 
 
 
