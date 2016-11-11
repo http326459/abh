@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 #xunwei .injiangbe li .injiangbetxt{text-align:center;font-size:10px;}
 #xunwei .injiangbe li .injiangbetxt p{color:#2aa898;}
 /*第三站*/
-#xunwei .disanzhan{position:relative;min-height:550px;}
+#xunwei .disanzhan{position:relative;min-height:600px;}
 #xunwei .injiangbf{position: absolute;left:0px;top:5%;width:100%;}
 #xunwei .injiangbf li{float:left;}
 #xunwei .injiangbf li:nth-child(1){background:url(../images/bg3.png) no-repeat;background-size:100%;width:40%;margin-left:15px;padding-bottom:30px;}
