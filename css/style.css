@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 
 
 /* xuanwei */
-#xunwei{padding:0;background:#fff;background-size:100%;}
+#xunwei{padding:0;}
 #xunwei header{width:100%;margin-left:0px;}
 #xunwei .title{position:absolute;font-size:20px;color:#1b6e69;font-family:fangzhen;}
 #xunwei .title1{left:20%;top:7%;}
@@ -204,7 +204,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 #xunwei .injiangbn li .injiangbntxt{text-align:center;font-size:10px;}
 #xunwei .injiangbn li .injiangbntxt p{color:#2aa898;}
 #xunwei .xiangshang{position:absolute;left:50%;transform:translateX(-50%);top:85%;display:block;width:20px;}
-#xunwei .tuijian{position:absolute;left:15%;top:92%;width:65%;color:#fff;font-size:12px;height:40px;line-height:40px;text-align:center;display:block;background:#f16922;}
+#xunwei .tuijian{position:absolute;left:0;top:92%;width:65%;color:#fff;font-size:12px;height:40px;line-height:40px;text-align:center;display:block;background:#f16922;}
 
 
 
