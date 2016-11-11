@@ -183,7 +183,7 @@ h1,h2,h3,h4,h5,h6{font-weight: normal;}
 
 #xunwei .injiangbm{position: absolute;left:0px;top:26.5%;width:100%;}
 #xunwei .injiangbm li{margin:0 auto;}
-#xunwei .injiangbm li:nth-child(1){background:url(../images/shaapingb.png) no-repeat;background-size:100%;width:38%;padding-bottom:22px;}
+#xunwei .injiangbm li:nth-child(1){background:url(../images/shaapingb.png) no-repeat;background-size:100%;width:38%;padding-bottom:20px;}
 #xunwei .injiangbm li:nth-child(1) .injiangbmpic{width:85%;margin:0 auto;position:relative;top:10px;display:block;}
 #xunwei .injiangbm li:nth-child(2) h3{height:30px;line-height:30px;text-align:center;font-size:16px;color:#2aa898;font-family:fangzhen;width:100%;}
 #xunwei .injiangbm li:nth-child(2){width:90%;}
